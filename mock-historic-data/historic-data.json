@@ -1,0 +1,602 @@
+[
+    {
+        "serialNo": 1,
+        "sensorCode": "GGGRYGYGY",
+        "fromTime": "2/28/2025, 4:15:04 AM",
+        "toTime": "2/28/2025, 4:15:14 AM"
+    },
+    {
+        "serialNo": 2,
+        "sensorCode": "RRRYGRRRR",
+        "fromTime": "2/28/2025, 4:15:04 AM",
+        "toTime": "2/28/2025, 4:15:14 AM"
+    },
+    {
+        "serialNo": 3,
+        "sensorCode": "GYGGGRRGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 4,
+        "sensorCode": "RGGRGGRGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 5,
+        "sensorCode": "RYYRYGGGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 6,
+        "sensorCode": "RRRRGYGRG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 7,
+        "sensorCode": "YGYYGGRGR",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 8,
+        "sensorCode": "GGGGGRRGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 9,
+        "sensorCode": "GRGYYRYYR",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 10,
+        "sensorCode": "GYYRGGGYG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 11,
+        "sensorCode": "YGGYGGRGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 12,
+        "sensorCode": "RYGYGGRGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 13,
+        "sensorCode": "GRYGYGYYR",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 14,
+        "sensorCode": "RGGGYGGYG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 15,
+        "sensorCode": "YYGRGYRGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 16,
+        "sensorCode": "GRGRYYRGR",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 17,
+        "sensorCode": "RYGRYGGYR",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 18,
+        "sensorCode": "YGGGRYRGR",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 19,
+        "sensorCode": "YGGGGYGGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 20,
+        "sensorCode": "RGRYRRRRG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 21,
+        "sensorCode": "RYGRGRYGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 22,
+        "sensorCode": "RGRGGRGGG",
+        "fromTime": "2/28/2025, 4:15:05 AM",
+        "toTime": "2/28/2025, 4:15:15 AM"
+    },
+    {
+        "serialNo": 23,
+        "sensorCode": "RGGGRRGGG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 24,
+        "sensorCode": "GYGGYGRYG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 25,
+        "sensorCode": "GRRYGGGGG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 26,
+        "sensorCode": "YGYRGYRRR",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 27,
+        "sensorCode": "GGYGRRRYG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 28,
+        "sensorCode": "RGYRRYRYG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 29,
+        "sensorCode": "RRYGGGGYY",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 30,
+        "sensorCode": "RGGGGGGYG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 31,
+        "sensorCode": "GRGGGGYRG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 32,
+        "sensorCode": "RYRRGGGGR",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 33,
+        "sensorCode": "RGRGYGGGG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 34,
+        "sensorCode": "YGGRGGGGY",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 35,
+        "sensorCode": "YGRRRYRGG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 36,
+        "sensorCode": "RYGRYGGYG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 37,
+        "sensorCode": "RGRYGRYRG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 38,
+        "sensorCode": "GRGGYGYRY",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 39,
+        "sensorCode": "YGGRGYGYG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 40,
+        "sensorCode": "GGGGYGGYG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 41,
+        "sensorCode": "GRGGGRYYY",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 42,
+        "sensorCode": "RRRGGRGYG",
+        "fromTime": "2/28/2025, 4:15:06 AM",
+        "toTime": "2/28/2025, 4:15:16 AM"
+    },
+    {
+        "serialNo": 43,
+        "sensorCode": "GRGGYGRYR",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 44,
+        "sensorCode": "GGRGGYGGY",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 45,
+        "sensorCode": "RRRGRYGRR",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 46,
+        "sensorCode": "GYGGYGYRG",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 47,
+        "sensorCode": "YYYYYGGYY",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 48,
+        "sensorCode": "GGRGRYRGG",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 49,
+        "sensorCode": "RGRGRGGYG",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 50,
+        "sensorCode": "GGRYYGRRY",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 51,
+        "sensorCode": "RGGGYGGYR",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 52,
+        "sensorCode": "YGGYGYRYG",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 53,
+        "sensorCode": "GRGGYYRYG",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 54,
+        "sensorCode": "GYGYYGRGG",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 55,
+        "sensorCode": "YRRRGRRRR",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 56,
+        "sensorCode": "YGRRRGYGG",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 57,
+        "sensorCode": "RYRYGYRGY",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 58,
+        "sensorCode": "GRGGGYGYG",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 59,
+        "sensorCode": "YRGGGGRGR",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 60,
+        "sensorCode": "YGGGGGRRR",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 61,
+        "sensorCode": "RYRRRGRGR",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 62,
+        "sensorCode": "GGGGYYGYR",
+        "fromTime": "2/28/2025, 4:15:07 AM",
+        "toTime": "2/28/2025, 4:15:17 AM"
+    },
+    {
+        "serialNo": 63,
+        "sensorCode": "RGGGGYGGY",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 64,
+        "sensorCode": "GRRGGGGYY",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 65,
+        "sensorCode": "YGGRGYRGR",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 66,
+        "sensorCode": "RYRGGRYRR",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 67,
+        "sensorCode": "YRGRGGGYY",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 68,
+        "sensorCode": "RYGYGYRGG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 69,
+        "sensorCode": "YRYGGGGYY",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 70,
+        "sensorCode": "RGGGYRGRG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 71,
+        "sensorCode": "YGGGRYGYG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 72,
+        "sensorCode": "RGRGRGGGG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 73,
+        "sensorCode": "GGGRYRRYR",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 74,
+        "sensorCode": "RRGRRYRYG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 75,
+        "sensorCode": "RGGGRGGGR",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 76,
+        "sensorCode": "RRGGGGRGY",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 77,
+        "sensorCode": "GGRRGYGGR",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 78,
+        "sensorCode": "RRGGRYYRG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 79,
+        "sensorCode": "GGYRYGGGG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 80,
+        "sensorCode": "GRGGRGYGG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 81,
+        "sensorCode": "RGGGYRRRG",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 82,
+        "sensorCode": "GGRYYRGGR",
+        "fromTime": "2/28/2025, 4:15:08 AM",
+        "toTime": "2/28/2025, 4:15:18 AM"
+    },
+    {
+        "serialNo": 83,
+        "sensorCode": "GGGRGYYGR",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 84,
+        "sensorCode": "RGGGRGYGR",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 85,
+        "sensorCode": "GGGRRRRGG",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 86,
+        "sensorCode": "RYGRGRRRY",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 87,
+        "sensorCode": "GGGGRRGGY",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 88,
+        "sensorCode": "YGRGYGYGG",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 89,
+        "sensorCode": "RGGRRGYRY",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 90,
+        "sensorCode": "GRRGGRGGY",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 91,
+        "sensorCode": "RGGRYGGGR",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 92,
+        "sensorCode": "GRYGGRYYG",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 93,
+        "sensorCode": "GGRGYGGGG",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 94,
+        "sensorCode": "YGRYGGGRG",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 95,
+        "sensorCode": "RRRYGGRYR",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 96,
+        "sensorCode": "RYGGGGRYR",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 97,
+        "sensorCode": "GYGRRGGRG",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 98,
+        "sensorCode": "RRGGYRGGR",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 99,
+        "sensorCode": "GRGRGRGRG",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    },
+    {
+        "serialNo": 100,
+        "sensorCode": "RGGRGYRRR",
+        "fromTime": "2/28/2025, 4:15:09 AM",
+        "toTime": "2/28/2025, 4:15:19 AM"
+    }
+]

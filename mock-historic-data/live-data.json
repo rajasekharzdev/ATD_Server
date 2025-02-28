@@ -1,0 +1,26 @@
+[
+    {
+        "serialNo": 4,
+        "sensorCode": "GGRGGRGRY",
+        "fromTime": "2/28/2025, 5:26:39 AM",
+        "toTime": "2/28/2025, 5:26:49 AM"
+    },
+    {
+        "serialNo": 3,
+        "sensorCode": "GRYGYGGRG",
+        "fromTime": "2/28/2025, 5:26:29 AM",
+        "toTime": "2/28/2025, 5:26:39 AM"
+    },
+    {
+        "serialNo": 2,
+        "sensorCode": "RRYRRGRGR",
+        "fromTime": "2/28/2025, 5:26:19 AM",
+        "toTime": "2/28/2025, 5:26:29 AM"
+    },
+    {
+        "serialNo": 1,
+        "sensorCode": "GRYRGRRGR",
+        "fromTime": "2/28/2025, 5:26:09 AM",
+        "toTime": "2/28/2025, 5:26:19 AM"
+    }
+]
